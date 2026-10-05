@@ -1,0 +1,75 @@
+# Query: useEffect(load, []);
+
+24 results - 24 files
+
+frontend\src\components\common\NotificationBell.jsx:
+  23:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\accountant\Deposits.jsx:
+  16:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\admin\Backup.jsx:
+  20:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\admin\Services.jsx:
+  20:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\customer\Loyalty.jsx:
+  16:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\customer\MyBookings.jsx:
+  14:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\customer\Reviews.jsx:
+  17:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\customer\Services.jsx:
+  26:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\housekeeping\Dashboard.jsx:
+  35:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\housekeeping\Laundry.jsx:
+  21:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\housekeeping\LostFound.jsx:
+  22:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\maintenance\Dashboard.jsx:
+  26:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\maintenance\Equipment.jsx:
+  22:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\manager\Attendance.jsx:
+  39:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\manager\CRM.jsx:
+  22:   useEffect(() => { load(); }, []);
+
+frontend\src\pages\manager\Events.jsx:
+  32:   useEffect(load, []);
+
+frontend\src\pages\manager\Procurement.jsx:
+  29:   useEffect(load, []);
+
+frontend\src\pages\manager\Reservations.jsx:
+  21:   useEffect(load, []);
+
+frontend\src\pages\manager\ReviewsComplaints.jsx:
+  29:   useEffect(load, []);
+
+frontend\src\pages\manager\RoomRates.jsx:
+  29:   useEffect(load, []);
+
+frontend\src\pages\manager\Staff.jsx:
+  27:   useEffect(load, []);
+
+frontend\src\pages\receptionist\CheckIn.jsx:
+  26:   useEffect(load, []);
+
+frontend\src\pages\receptionist\CheckOut.jsx:
+  28:   useEffect(load, []);
+
+frontend\src\pages\receptionist\Transport.jsx:
+  21:   useEffect(load, []);
